@@ -15,7 +15,7 @@ function preload()
 	//load animation for fairy here
 	fairyImage = loadAnimation("fairyImage1.png","fairyImage2.png");
 	
-	fairySound = loadSound("joyMusic.mp3");
+	fairySound = loadSound("JoyMusic.mp3");
 
 
 }
